@@ -33,4 +33,6 @@ Obtén ayuda: [Publica en nuestro foro de discusión](https://github.com/orgs/sk
 
 &copy; 2023 GitHub &bull; [Código de conducta](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [Licencia MIT](https://gh.io/mit)
 
+ :smile:_
+
 </footer>
